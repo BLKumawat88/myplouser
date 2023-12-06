@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "484522586044",
+    "project_id": "pushnotificationofexamready",
+    "storage_bucket": "pushnotificationofexamready.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484522586044:android:305c2c58847975849945b9",
+        "android_client_info": {
+          "package_name": "com.exameasyprep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484522586044-eiormtlqqtkhhs7jv87pr1b86621alui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exameasyprep",
+            "certificate_hash": "58a6020ceef5e75729aaeabbf82b691523bdbd27"
+          }
+        },
+        {
+          "client_id": "484522586044-gkj9ntnb8noddekm6hd9m6nri32ceigg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg_eLiEKtSiF9NhTZJyjY8mbrSRP8Ed14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484522586044-gkj9ntnb8noddekm6hd9m6nri32ceigg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484522586044-rtvsc3q0sssrof0ln50d40ifhlbp5u3o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.exameasyprep"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484522586044:android:b0bdceaff7dce08d9945b9",
+        "android_client_info": {
+          "package_name": "com.exameasyprepapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484522586044-gkj9ntnb8noddekm6hd9m6nri32ceigg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg_eLiEKtSiF9NhTZJyjY8mbrSRP8Ed14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484522586044-gkj9ntnb8noddekm6hd9m6nri32ceigg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484522586044-rtvsc3q0sssrof0ln50d40ifhlbp5u3o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.exameasyprep"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
